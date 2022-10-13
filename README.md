@@ -13,3 +13,6 @@ Windows 11 settings and troubleshooting
  ```
  
  Ref: [https://windowsreport.com/windows-cannot-find-gpedit-msc-windows-11/](https://windowsreport.com/windows-cannot-find-gpedit-msc-windows-11/)
+ 
+## Disable snipping tool on Windows 11
+[https://www.makeuseof.com/windows-11-disable-snipping-tool/](https://www.makeuseof.com/windows-11-disable-snipping-tool/)
